@@ -18,8 +18,6 @@ A infraestrutura é composta por:
 
 O roteador está conectado ao SW1, que por sua vez está conectado ao SW2. Os enlaces entre os equipamentos de infraestrutura utilizam portas configuradas como trunk para transportar o tráfego das VLANs.
 
-![Topologia da rede](topologia.png)
-
 ## 🌐 Planejamento de endereçamento IP
 
 Foram utilizadas três redes distintas, organizadas de acordo com suas finalidades.
